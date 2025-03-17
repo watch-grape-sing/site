@@ -60,14 +60,4 @@
         text-align: center;
     }
 
-    /*background*/
-
-.chungus {
-    background-image: url("images/background.png");
-    background-color: #ffffff;
-    background-size: 100vw 100vh;
-       background-attachment: fixed;
-       background-repeat: no-repeat;
-       background-position: center;
-       background-size: cover;
-   }
+    
