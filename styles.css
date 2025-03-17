@@ -1,0 +1,27 @@
+/*navbar*/
+
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(151, 228, 252);
+    padding: 2px;
+    margin: 0px;
+    overflow: hidden;
+    border-radius: -0px 0px 25px 25px;
+    border:2px solid rgb(255, 255, 255);
+    }
+    
+    .navbar a{
+    color: rgb(4, 0, 22);
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    }
+    
+    .navbar a:hover{
+    background-color: hsl(192, 100%, 85%);
+    }
+    
+    .navbar li{
+    float: left;
+    }
