@@ -3,11 +3,11 @@
 .navbar ul{
     list-style-type: none;
     background-color: rgb(151, 228, 252);
-    padding: 2px;
+    padding: 0px;
     margin: 0px;
     overflow: hidden;
-    border-radius: -0px 0px 25px 25px;
-    border:2px solid rgb(255, 255, 255);
+    border-radius: 0px 0px 25px 25px;
+    border:0px solid rgb(255, 255, 255);
     }
     
     .navbar a{
@@ -33,3 +33,41 @@
         margin-right: auto;
         width: 100%;
     }
+
+    /*black man be having a little boggie he does*/
+    .blackman {
+        display: block;
+        margin-left: -5%;
+        margin-right: auto;
+        margin-top: -15%;
+        width: 25%;
+    }
+
+    .blackman2 {
+        display: block;
+        margin-left: auto;
+        margin-right: -5%;
+        margin-top: -15%;
+        width: 25%;
+        image-orientation: flip;
+    }
+
+    .indexblurb {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 60%;
+        text-align: center;
+    }
+
+    /*background*/
+
+body {
+    background-image: url("images/background.png");
+    background-color: #9ae4ff;
+    background-size: 100vw 100vh;
+       background-attachment: fixed;
+       background-repeat: no-repeat;
+       background-position: center;
+       background-size: cover;
+   }
