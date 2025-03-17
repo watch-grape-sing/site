@@ -62,9 +62,9 @@
 
     /*background*/
 
-body {
+.chungus {
     background-image: url("images/background.png");
-    background-color: #9ae4ff;
+    background-color: #ffffff;
     background-size: 100vw 100vh;
        background-attachment: fixed;
        background-repeat: no-repeat;
